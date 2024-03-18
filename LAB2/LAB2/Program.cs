@@ -1,6 +1,6 @@
 ﻿static double avg(int[] arr)
 {
-    double avgMAIN = 0;
+    double avg = 0;
     double sum = 0;
     int amt = arr.Length;
 
